@@ -1,0 +1,31 @@
+System users: 
+root
+systemd+
+avahi
+message+
+syslog
+rtkit
+whoopsie
+kernoops
+colord
+lina
+
+Total processes: 237
+
+Processes by user:
+root: 114
+systemd+: 2
+avahi: 2
+message+: 1
+syslog: 1
+rtkit: 1
+whoopsie: 1
+kernoops: 2
+colord: 1
+lina: 112
+
+Total memory: 7106.16Mb
+Total CPU: 30.10%
+Max memory usage: /home/lina/soft/pych
+Max CPU usage: /home/lina/soft/pych
+
